@@ -12,6 +12,7 @@ Curating the best open-source alternatives for famous apps.
 - [Apollo.io / Outreach](#apolloio--outreach)
 - [Bombora / 6sense](#bombora--6sense)
 - [Canny](#canny)
+- [CodeRabbit](#coderabbit)
 - [cPanel](#cpanel)
 - [Facebook](#facebook)
 - [Github](#github)
@@ -73,6 +74,9 @@ Curating the best open-source alternatives for famous apps.
 ### [Canny](https://canny.io/)
 - [Fider](https://github.com/getfider)
 - [Astuto](https://github.com/riggraz/astuto)
+
+### [CodeRabbit](https://www.coderabbit.ai/)
+- [CodeOtter](https://github.com/dharmeshgurnani/CodeOtter)
 
 ### [cPanel](https://cpanel.net/)
 - [Vesta](https://github.com/serghey-rodin/vesta)
